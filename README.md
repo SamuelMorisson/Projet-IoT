@@ -11,14 +11,14 @@ MouvTrack est une application web moderne qui permet de contrôler et de surveil
 - 🔄 Communication en temps réel avec les appareils IoT
 
 ## Technologies Utilisées:
- -React (Bibliothèque frontend)
- -Tailwind CSS (Styling)
- -Flask (Bibliothèque Python backend)
- -Socket.io (Communication en temps réel)
- -MQTT (Protocole de communication IoT)
- -C++
- -Bibliothèque Arduino
- -PlatformIO (extension VSCode)
+  -React (Bibliothèque frontend)
+  -Tailwind CSS (Styling)
+  -Flask (Bibliothèque Python backend)
+  -Socket.io (Communication en temps réel)
+  -MQTT (Protocole de communication IoT)
+  -C++
+  -Bibliothèque Arduino
+  -PlatformIO (extension VSCode)
 
 
 ## Installation
